@@ -33,7 +33,7 @@
   <a href="https://www.facebook.com/mh.liton.360" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin:5px;" />
   </a>
-  <a href="https://www.instagram.com/mh.liton.360/" target="_blank">
+  <a href="https://www.instagram.com/liton.360/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin:5px;" />
   </a>
 </p>
