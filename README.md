@@ -22,7 +22,7 @@
 </p>
 
 <p align="center" style="color:#bbb; margin-bottom:20px;">
-  👨‍💻 Projects: <a href="https://liton-portfolio-resume.netlify.app/" style="color:#61dafb;">Portfolio</a> | 📫 Contact: <a href="mailto:liton72524nk@gmail.com" style="color:#61dafb;">Email Me</a> | 📄 Resume: <a href="https://drive.google.com/file/d/1Txkg3EjelxQV1noW8eAxQbi8BZfYkUTE/view?usp=drive_link" style="color:#61dafb;">View</a>
+  👨‍💻 Projects: <a href="https://liton-portfolio-resume.netlify.app/" style="color:#61dafb;">Portfolio</a> | 📫 Contact: <a href="mailto:liton72524nk@gmail.com" style="color:#61dafb;">Email Me</a> | 📄 Resume: <a href="https://drive.google.com/file/d/1QtB_laewMu40NHhxi3Lo_OnbHLdB5yPW/view?usp=sharing" style="color:#61dafb;">View</a>
 </p>
 
 <h3 align="center" style="color:white; margin-bottom:10px;">Connect with me</h3>
