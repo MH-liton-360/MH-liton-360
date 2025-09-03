@@ -1,29 +1,72 @@
-<h1 align="center">Hi 👋, I'm MH.liton</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh!</h3>
+<h1 align="center" style="color:white;">Hi 👋, I'm MH.liton</h1>
+<h3 align="center" style="color:#bbb;">A passionate frontend developer from Bangladesh!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mh-liton-360&label=Profile%20views&color=0e75b6&style=flat" alt="mh-liton-360" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mh-liton-360" alt="mh-liton-360" /></a> </p>
-
-- 🔭 I’m currently working on **Programming Hero**
-
-- 🌱 I’m currently learning **Reactjs**
-
-- 👨‍💻 All of my projects are available at [https://liton-portfolio-resume.netlify.app/](https://liton-portfolio-resume.netlify.app/)
-
-- 📫 How to reach me **liton72524nk@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Txkg3EjelxQV1noW8eAxQbi8BZfYkUTE/view?usp=drive_link](https://drive.google.com/file/d/1Txkg3EjelxQV1noW8eAxQbi8BZfYkUTE/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https:https://www.linkedin.com/in/mh-liton-36t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liton-36t/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mh.liton.360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mh.liton.360" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mh-liton-360&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<!-- Dark Mode Animated Badges -->
+<p align="center" style="margin-bottom: 25px;">
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Frontend-Vue.js-brightgreen?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-yellow?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-blue?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Currently_Learning-React_js-red?style=for-the-badge&logo=react&logoColor=white" alt="Currently Learning React.js" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-liton-360&show_icons=true&locale=en&layout=compact" alt="mh-liton-360" /></p>
+<p align="center" style="color:#bbb; margin-bottom:20px;">
+  🔭 Currently working on <strong>Programming Hero</strong> | 🌱 Learning <strong>React.js</strong>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mh-liton-360&show_icons=true&locale=en" alt="mh-liton-360" /></p>
+<p align="center" style="color:#bbb; margin-bottom:20px;">
+  👨‍💻 Projects: <a href="https://liton-portfolio-resume.netlify.app/" style="color:#61dafb;">Portfolio</a> | 📫 Contact: <a href="mailto:liton72524nk@gmail.com" style="color:#61dafb;">Email Me</a> | 📄 Resume: <a href="https://drive.google.com/file/d/1Txkg3EjelxQV1noW8eAxQbi8BZfYkUTE/view?usp=drive_link" style="color:#61dafb;">View</a>
+</p>
+
+<h3 align="center" style="color:white; margin-bottom:10px;">Connect with me</h3>
+<p align="center" style="margin-bottom:25px;">
+  <a href="https://www.linkedin.com/in/mh-liton-36t/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px;" />
+  </a>
+  <a href="https://www.facebook.com/mh.liton.360" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin:5px;" />
+  </a>
+  <a href="https://www.instagram.com/mh.liton.360/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin:5px;" />
+  </a>
+</p>
+
+<h3 align="center" style="color:white; margin-bottom:10px;">Languages & Tools</h3>
+<p align="center" style="margin-bottom:25px;">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin:5px;" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin:5px;" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin:5px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:5px;" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin:5px;" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" style="margin:5px;" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin:5px;" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin:5px;" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" style="margin:5px;" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" style="margin:5px;" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin:5px;" /></a>
+</p>
+
+<!-- GitHub Stats & Visitor Counter -->
+<p align="center" style="margin-bottom: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-liton-360&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center" style="margin-bottom: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mh-liton-360&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center" style="margin-bottom: 15px;">
+  <!-- Streak Stats: fallback note -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-liton-360&theme=dark" alt="GitHub Streak" onerror="this.alt='Streak stats not visible. Ensure your username is correct and you have recent public activity.'" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mh-liton-360&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
