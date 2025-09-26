@@ -77,6 +77,22 @@
   </a>
 </p>
 
+<!-- Codeforces Stats - Final Version -->
+<h3 align="center">📊 M-liton Codeforce Stats</h3>
+<p align="center">
+  <a href="https://codeforces.com/profile/M-liton" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Rating&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=M-liton&logo=codeforces&logoColor=white&color=0f4c81" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Max%20Rating&query=$.result[0].maxRating&url=https://codeforces.com/api/user.info?handles=M-liton&logo=codeforces&logoColor=white&color=ff8c00" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Rank&query=$.result[0].rank&url=https://codeforces.com/api/user.info?handles=M-liton&logo=codeforces&logoColor=white&color=228b22" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contribution&query=$.result[0].contribution&url=https://codeforces.com/api/user.info?handles=M-liton&logo=codeforces&logoColor=white&color=9932cc" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mh-liton-360&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
+
+<!-- Footer -->
+<h3 align="center" style="color:#bbb; margin-top:30px;">
+  💖 Thanks for visiting my profile! Have a great day! 🚀
+</h3>
