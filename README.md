@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Currently_Learning-React_js-red?style=for-the-badge&logo=react&logoColor=white" alt="Currently Learning React.js" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </p>
 
 <p align="center" style="color:#bbb; margin-bottom:20px;">
@@ -61,18 +62,19 @@
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin:5px;" /></a>
 </p>
 
-<!-- GitHub Stats & Visitor Counter -->
-<p align="center" style="margin-bottom: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-liton-360&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
+<!-- GitHub & LeetCode Stats Single Row -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-liton-360&show_icons=true&layout=compact&theme=dark" alt="Top Languages" width="270" style="margin:5px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mh-liton-360&show_icons=true&theme=dark" alt="GitHub Stats" width="300" style="margin:5px;" />
 </p>
-
-<p align="center" style="margin-bottom: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mh-liton-360&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center" style="margin-bottom: 15px;">
-  <!-- Streak Stats: fallback note -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-liton-360&theme=dark" alt="GitHub Streak" onerror="this.alt='Streak stats not visible. Ensure your username is correct and you have recent public activity.'" />
+<!-- LeetCode Stats - Second Row -->
+<p align="center" style="margin-top: 10px;">
+  <a href="https://leetcode.com/u/Mahdi-H-liton/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Mahdi-H-liton?theme=dark&font=baloo&ext=heatmap" 
+         alt="LeetCode Stats" 
+         width="570" 
+         style="border-radius: 10px;" />
+  </a>
 </p>
 
 <p align="center">
