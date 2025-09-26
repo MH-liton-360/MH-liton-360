@@ -88,6 +88,9 @@
   </a>
 </p>
 
+![](https://raw.githubusercontent.com/M-liton/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/M-liton/cf-stats/main/output/rating.svg)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mh-liton-360&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
