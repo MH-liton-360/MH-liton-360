@@ -75,6 +75,7 @@
     <img src="https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
   </div>
+  <br>
 
   <!-- GitHub & LeetCode Stats -->
   <div style="margin:20px 0;">
@@ -82,7 +83,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mh-liton-360&show_icons=true&theme=dark" width="300" style="margin:5px; border-radius:8px;" />
   </div>
 
+
+
   <!-- LeetCode Stats -->
+<h3 style="color:white; margin-top:20px;">🤖 LeetCode Stats</h3>
+
   <div style="margin:20px 0;">
     <a href="https://leetcode.com/u/Mahdi-H-liton/" target="_blank">
       <img src="https://leetcard.jacoblin.cool/Mahdi-H-liton?theme=dark&font=baloo&ext=heatmap" 
