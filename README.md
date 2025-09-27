@@ -7,16 +7,8 @@
 
 
 <!-- Codeforces Stats -->
-<h3 align="center">📊 M-liton Codeforces Stats</h3>
-<p align="center">
-  <a href="https://codeforces.com/profile/M-liton" target="_blank">
-    <img src="https://raw.githubusercontent.com/M-liton/cf-stats/main/output/light_card.svg" alt="Codeforces Stats" width="450" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/M-liton/cf-stats/main/output/max_rating.svg" alt="Max Rating" width="220" style="margin:5px;" />
-  <img src="https://raw.githubusercontent.com/M-liton/cf-stats/main/output/rating.svg" alt="Current Rating" width="220" style="margin:5px;" />
-</p>
+![](https://raw.githubusercontent.com/M-liton/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/M-liton/cf-stats/main/output/light_card.svg)
 
 <!-- Dark Mode Animated Badges -->
 <p align="center" style="margin-bottom: 25px;">
