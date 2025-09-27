@@ -7,8 +7,8 @@
 
 
 <!-- Codeforces Stats -->
-![](https://raw.githubusercontent.com/M-liton/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/M-liton/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/MH-liton-360/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MH-liton-360/cf-stats/main/output/light_card.svg)
 
 <!-- Dark Mode Animated Badges -->
 <p align="center" style="margin-bottom: 25px;">
