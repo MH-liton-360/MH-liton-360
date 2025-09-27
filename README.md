@@ -6,8 +6,7 @@
 </p>
 
 
-<!-- Codeforces Stats -->
-![](https://raw.githubusercontent.com/MH-liton-360/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
 
 <!-- Dark Mode Animated Badges -->
 <p align="center" style="margin-bottom: 25px;">
@@ -49,6 +48,16 @@
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" style="margin:5px;" />
   </a>
 </p>
+
+
+<!-- Codeforces Stats -->
+<p align="center" style="margin:20px 0;">
+  <img src="https://raw.githubusercontent.com/MH-liton-360/cf-stats/main/output/light_card.svg#gh-dark-mode-only" 
+       alt="Codeforces Stats" 
+       width="570" 
+       style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.4);" />
+</p>
+
 
 <h3 align="center" style="color:white; margin-bottom:10px;">Languages & Tools</h3>
 <p align="center" style="margin-bottom:25px;">
