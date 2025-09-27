@@ -5,6 +5,18 @@
   <img src="https://komarev.com/ghpvc/?username=mh-liton-360&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
+<!-- Codeforces Stats -->
+<h3 align="center">📊 M-liton Codeforces Stats</h3>
+<p align="center">
+  <a href="https://codeforces.com/profile/M-liton" target="_blank">
+    <img src="https://raw.githubusercontent.com/M-liton/cf-stats/main/output/light_card.svg" alt="Codeforces Stats" width="450" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M-liton/cf-stats/main/output/max_rating.svg" alt="Max Rating" width="220" style="margin:5px;" />
+  <img src="https://raw.githubusercontent.com/M-liton/cf-stats/main/output/rating.svg" alt="Current Rating" width="220" style="margin:5px;" />
+</p>
+
 <!-- Dark Mode Animated Badges -->
 <p align="center" style="margin-bottom: 25px;">
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -67,7 +79,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-liton-360&show_icons=true&layout=compact&theme=dark" alt="Top Languages" width="270" style="margin:5px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=mh-liton-360&show_icons=true&theme=dark" alt="GitHub Stats" width="300" style="margin:5px;" />
 </p>
-<!-- LeetCode Stats - Second Row -->
+
+<!-- LeetCode Stats -->
 <p align="center" style="margin-top: 10px;">
   <a href="https://leetcode.com/u/Mahdi-H-liton/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Mahdi-H-liton?theme=dark&font=baloo&ext=heatmap" 
@@ -77,22 +90,10 @@
   </a>
 </p>
 
-<!-- Codeforces Stats - Final Version -->
-<h3 align="center">📊 M-liton Codeforce Stats</h3>
-<p align="center">
-  <a href="https://codeforces.com/profile/M-liton" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Rating&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=M-liton&logo=codeforces&logoColor=white&color=0f4c81" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Max%20Rating&query=$.result[0].maxRating&url=https://codeforces.com/api/user.info?handles=M-liton&logo=codeforces&logoColor=white&color=ff8c00" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Rank&query=$.result[0].rank&url=https://codeforces.com/api/user.info?handles=M-liton&logo=codeforces&logoColor=white&color=228b22" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contribution&query=$.result[0].contribution&url=https://codeforces.com/api/user.info?handles=M-liton&logo=codeforces&logoColor=white&color=9932cc" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mh-liton-360&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
 
-<!-- Footer -->
 <h3 align="center" style="color:#bbb; margin-top:30px;">
   💖 Thanks for visiting my profile! Have a great day! 🚀
 </h3>
