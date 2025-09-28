@@ -51,13 +51,16 @@
     <a href="https://codeforces.com/profile/M-liton" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" style="margin:5px;" /></a>
   </p>
 
-  <!-- Codeforces Stats -->
+ <!-- ✅ Updated Codeforces Stats -->
   <div style="margin:20px 0;">
-    <img src="https://raw.githubusercontent.com/MH-liton-360/cf-stats/main/output/light_card.svg#gh-dark-mode-only" 
-         alt="Codeforces Stats" 
-         width="570" 
-         style="border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.5);" />
+    <a href="https://codeforces.com/profile/M-liton" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/MH-liton-360/cf-stats@main/output/light_card.svg" 
+           alt="Codeforces Stats" 
+           width="570" 
+           style="border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.5); max-width:100%;" />
+    </a>
   </div>
+
 
   <!-- Languages & Tools -->
   <h3 style="color:white; margin-top:30px;">🛠️ Languages & Tools</h3>
