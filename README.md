@@ -52,14 +52,14 @@
   </p>
 
  <!-- ✅ Updated Codeforces Stats -->
-  <div style="margin:20px 0;">
-    <a href="https://codeforces.com/profile/M-liton" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/MH-liton-360/cf-stats@main/output/light_card.svg" 
-           alt="Codeforces Stats" 
-           width="570" 
-           style="border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.5); max-width:100%;" />
-    </a>
-  </div>
+<div style="margin:20px 0;">
+  <a href="https://codeforces.com/profile/M-liton" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/MH-liton-360/cf-stats@main/output/light_card.svg?ts=TIMESTAMP" 
+         alt="Codeforces Stats" 
+         width="570" 
+         style="border-radius:10px; box-shadow:0 0 12px rgba(0,0,0,0.5); max-width:100%;" />
+  </a>
+</div>
 
 
   <!-- Languages & Tools -->
