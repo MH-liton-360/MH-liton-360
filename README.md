@@ -51,6 +51,9 @@
     <a href="https://codeforces.com/profile/M-liton" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" style="margin:5px;" /></a>
   </p>
 
+![](https://raw.githubusercontent.com/MH-liton-360/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MH-liton-360/cf-stats/main/output/light_card.svg)
+
 
   <!-- Languages & Tools -->
   <h3 style="color:white; margin-top:30px;">🛠️ Languages & Tools</h3>
