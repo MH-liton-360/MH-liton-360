@@ -54,7 +54,6 @@
 ![](https://raw.githubusercontent.com/MH-liton-360/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MH-liton-360/cf-stats/main/output/light_card.svg)
 
-
   <!-- Languages & Tools -->
   <h3 style="color:white; margin-top:30px;">🛠️ Languages & Tools</h3>
   <div style="margin:15px 0;">
