@@ -86,24 +86,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mh-liton-360&show_icons=true&theme=dark" width="300" style="margin:5px; border-radius:8px;" />
   </div>
 
-
-
-  <!-- LeetCode Stats -->
-<h3 style="color:white; margin-top:20px;">🤖 LeetCode Stats</h3>
-
-  <div style="margin:20px 0;">
-    <a href="https://leetcode.com/u/Mahdi-H-liton/" target="_blank">
-      <img src="https://leetcard.jacoblin.cool/Mahdi-H-liton?theme=dark&font=baloo&ext=heatmap" 
-           width="570" 
-           style="border-radius: 10px; box-shadow:0 0 12px rgba(0,0,0,0.5);" />
-    </a>
-  </div>
-
-  <!-- Visitor Count -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=mh-liton-360&style=flat-square&color=blue" alt="Visitor Count" />
-  </p>
-
   <!-- Footer -->
   <h3 style="color:#bbb; margin-top:30px;">
     💖 Thanks for visiting my profile! Have a great day! 🚀
