@@ -80,7 +80,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-liton-360&show_icons=true&layout=compact&theme=dark" width="270" style="margin:5px; border-radius:8px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=mh-liton-360&show_icons=true&theme=dark" width="300" style="margin:5px; border-radius:8px;" />
   </div>
-
+<h3>🔥 100 Days Challenge</h3>
+<img src="https://img.shields.io/badge/Challenge-Running-success?style=for-the-badge" />
+<img src="https://raw.githubusercontent.com/mh-liton-360/mh-liton-360/main/day.txt" />
   <!-- Footer -->
   <h3 style="color:#bbb; margin-top:30px;">
     💖 Thanks for visiting my profile! Have a great day! 🚀
