@@ -81,15 +81,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mh-liton-360&show_icons=true&theme=dark" width="300" style="margin:5px; border-radius:8px;" />
   </div>
 
-<!-- GitHub Streak -->
-<div style="margin:20px 0;">
-  <img 
-    src="https://streak-stats.demolab.com?user=mh-liton-360&theme=dark&hide_border=true&border_radius=10" 
-    width="600"
-    style="border-radius:10px;"
-  />
-</div>
-
 
   <!-- Footer -->
   <h3 style="color:#bbb; margin-top:30px;">
