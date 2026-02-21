@@ -75,11 +75,16 @@
   </div>
   <br>
 
-  <!-- GitHub & LeetCode Stats -->
-  <div style="margin:20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-liton-360&show_icons=true&layout=compact&theme=dark" width="270" style="margin:5px; border-radius:8px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mh-liton-360&show_icons=true&theme=dark" width="300" style="margin:5px; border-radius:8px;" />
-  </div>
+
+<!-- GitHub Streak -->
+<h3 align="left" style="margin-top:35px;">📈 Contribution Streak</h3>
+
+<p>
+  <img
+    src="https://streak-stats.demolab.com?user=mh-liton-360&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
+  />
+</p>
 
 
   <!-- Footer -->
