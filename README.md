@@ -51,12 +51,6 @@
     <a href="https://codeforces.com/profile/M-liton" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" style="margin:5px;" /></a>
   </p>
 
-![](https://raw.githubusercontent.com/MH-liton-360/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MH-liton-360/cf-stats/main/output/light_card.svg)
-
-![](https://raw.githubusercontent.com/M-liton/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/M-liton/cf-stats/main/output/rating.svg)
-
   <!-- Languages & Tools -->
   <h3 style="color:white; margin-top:30px;">🛠️ Languages & Tools</h3>
   <div style="margin:15px 0;">
@@ -75,7 +69,6 @@
   </div>
   <br>
 
-
 <!-- GitHub Streak -->
 <h3 align="left" style="margin-top:35px;">📈 Contribution Streak</h3>
 
@@ -85,7 +78,6 @@
     alt="GitHub Streak"
   />
 </p>
-
 
   <!-- Footer -->
   <h3 style="color:#bbb; margin-top:30px;">
